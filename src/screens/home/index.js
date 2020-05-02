@@ -9,7 +9,7 @@ function Home() {
         <h3>nous transformons vos idées en produits digitaux.</h3>
         <h3> les entrepreneurs, agences et start-ups nous font</h3>
         <h3> confiance pour nous confier leurs idées les plus </h3>
-        <h3> ambitieuses</h3>
+        <h3> ambitieuses.</h3>
    
       </div>
     </div>
