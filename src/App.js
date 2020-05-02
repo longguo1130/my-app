@@ -2,14 +2,12 @@ import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import Home from './screens/home';
+import Menu from './screens/menu';
 
 function App() {
   return (
-    <div className="App">
-      {/* <header className="App-header">
-        <img src={require('./home-3.png')} className="" alt="logo" />
-      </header> */}
-      <Home />
+    <div className="Menu">
+        <Menu/>
     </div>
   );
 }

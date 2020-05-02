@@ -1,0 +1,46 @@
+.menu-left{
+    position: relative;
+    width: 60%;
+    background-color: #11132C;
+    height: 100vh;
+}
+.menu-right{
+    width: 40%;
+    height: 100vh;
+    position: relative;
+    background-color: #5A32FF;
+}
+.menu{
+    display: flex;
+}
+
+.menu-left-content{
+    position: absolute;
+    top: 30%;
+    left: 20%;
+
+}
+.menu-left-content h1{
+    font-size: 80px;
+    color: white;
+    margin:0;
+
+}
+.menu-right-content{
+    position: absolute;
+    top: 30%;
+    left: 20%;
+
+}
+.menu-right-content h1{
+    margin: 0;
+}
+.menu-right-next{
+    position: absolute;
+    top: 50%;
+    right: 15%;
+}
+.menu-right-next a{
+    color:#11132C;
+    font-size: 40px;
+}
