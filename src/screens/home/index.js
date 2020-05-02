@@ -4,6 +4,9 @@ import "./styles.css";
 function Home() {
   return (
     <div className="home-page">
+      <div className="header-logo">
+        <img src={require('../../assets/header-logo.png')}/>
+      </div>
       <h1>CRÉ4TIVITÉ</h1>
       <div className="home-description">
         <h3>nous transformons vos idées en produits digitaux.</h3>

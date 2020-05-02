@@ -29,3 +29,11 @@
     float: left;
     font-size: 30px;
 }
+
+.header-logo img{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 5%;
+    height: auto;
+}
